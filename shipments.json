@@ -1,0 +1,30 @@
+[
+    {
+        "Fecha": "2025-04-03",
+        "Hora": "22:52:17",
+        "Destinatario": {
+            "Nombre": "felipe",
+            "Direccion": "calle 27",
+            "Telefono": "3141232345",
+            "Ciudad": "medellin",
+            "Barrio": "venezuela"
+        },
+        "Identificacion": "1093984983",
+        "Guia": "923986",
+        "Estado": "Entregado"
+    },
+    {
+        "Fecha": "2025-04-03",
+        "Hora": "22:52:17",
+        "Destinatario": {
+            "Nombre": "felipe",
+            "Direccion": "calle 27",
+            "Telefono": "3141232345",
+            "Ciudad": "medellin",
+            "Barrio": "venezuela"
+        },
+        "Identificacion": "1093984983",
+        "Guia": "923986",
+        "Estado": "Recibido"
+    }
+]
